@@ -1,0 +1,36 @@
+About the job
+Our Purpose
+
+We work to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. We cultivate a culture of inclusion for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team – one that makes better decisions, drives innovation and delivers better business results.
+
+Title And Summary
+
+Lead Data / ML Engineer-1
+
+As the Lead Data Engineer, you will lead the design and development for enhanced data services and cloud enablement for Data and Services. You will push the limits of the state of the art with best-in-class data product enablement in the cloud and will design the roadmap develop data & analytics solutions that sit atop vast datasets. The challenge will be to dynamically deliver value in the near term while developing capabilities and process that lay the groundwork for the future. Your roadmap will enable a frictionless customer and developer experience, exposing data components for direct to customer use or as components for new product constructs. You will have the opportunity to create high performance analytic and ML solutions based on data sets measured in the billions of transactions and front-end visualizations to unleash the value of big data.
+
+Overview
+
+As the Lead Data Engineer, you will:
+
+ Lead the design and development of new data capabilities and infrastructure related to accessing and using MA, third party, and partner data to power Mastercard data products and solutions.
+ Design required new data pipes, data transfers, and compliance related infrastructure to enable that use of the data in the cloud.
+ Identify data-related capabilities and infrastructure requirements resulting from new and evolving product constructs and how those requirements can be developed cloud natively.
+ Understand the Data and Services business strategy, information infrastructure and data needs for both new and existing products and services across various product initiatives.
+ Collaborate with relevant data management, data governance and technical teams to enable long term viability of information assets and enterprise requirements.
+ Develop a horizontal technology roadmap in conjunction with Data Strategy & Management team input to enable technology solutions for managing data that meet the needs of multiple business stakeholder groups.
+ Identify existing data capability and infrastructure gaps or opportunities within and across initiatives and provide subject matter expertise in support of remediation.
+
+
+All About You
+
+ You are curious about and motivated by the future trends in data, AI/ML, analytics, and digital experience
+ Experience in data product development, analytical models, and model governance
+ Experience in anonymizing data and managing the use of data
+ Experience in data hygiene procedures, identity resolution capabilities or data management a plus
+ Exceptional interpersonal skills with proven experience in relationship building and partnering. Must work well in both team and individual settings and must be able to work with a geographically dispersed team.
+ Ability to create strategies and plans that define how information can be utilized to support an organization's overall business strategy, and how that information and data is organized, and governed inside an organization
+ Strong analytic capabilities and written and oral communication skills. Attention to detail is a must.
+ Strong project management skills and a demonstrated ability to understand complex information product constructs
+ Familiarity with industry best practices for collection and use of data
+ Motivated self-starter with ability to excel at multi-tasking in a fast-paced environment, outstanding English written and verbal communication skills
